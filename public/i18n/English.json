@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "langCode": "En",
+        "langNative": "English",
+        "langEnglish": "English"
+    },
+    "common": {
+        "unbook": "Unbook",
+        "unbooks": "Unbooks"
+    },
+    "AddBookModal": {
+        "createNew": "Create new Unbook",
+        "addExisting": "Add an existing Unbook",
+        "saveUnbookToTitle": "Pick a file to save your Unbook to.",
+        "selectUnbookTitle": "Select the Unbook."
+    },
+    "Unbook": {
+        "newUnbookTitle": "New Unbook"
+    },
+    "UnbooksList": {
+        
+    }
+}
